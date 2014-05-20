@@ -1,1 +1,1 @@
-I am a first-year graduate student in Bryan Davies' brand new lab! I work with Vibrio cholera to try and understand how bacteria regulate horizontally acquired genes, mostly by studying the global repressor H-NS.
+I am a first-year graduate student in Bryan Davies' brand new lab! I work with Vibrio cholerae to try and understand how bacteria regulate horizontally acquired genes, mostly by studying the global repressor H-NS.
